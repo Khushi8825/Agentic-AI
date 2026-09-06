@@ -9,4 +9,4 @@ langchain-chroma
 chromadb
 sentence-transformers
 langchain-groq
-
+rank_bm25
